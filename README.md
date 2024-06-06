@@ -1,2 +1,2 @@
 Designed an basic calculator using html, css and javascript 
-for project based internship with TechnoHacks.
+for project based internship with TechnoHacksEdutech.
